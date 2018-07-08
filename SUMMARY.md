@@ -10,6 +10,7 @@
     * [算術運算](cheng-shi-ru/suan-shi-suan-zi/suan-suan.md)
     * [位元運算](cheng-shi-ru/suan-shi-suan-zi/wei-yuan-suan.md)
     * [指派運算](cheng-shi-ru/suan-shi-suan-zi/zhi-pai-suan.md)
+    * [布林運算](cheng-shi-ru/suan-shi-suan-zi/bu-lin-suan.md)
   * [迴圈控制](cheng-shi-ru/quan-kong-zhi/README.md)
     * [while](cheng-shi-ru/quan-kong-zhi/while.md)
 

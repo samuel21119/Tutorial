@@ -4,7 +4,7 @@
 
 如果要使用，則需要先宣告變數，宣告變數分成兩部分，分別為「變數型態」及變數名稱
 
-最基本的變數型態分成以下3種
+最基本的變數型態分成以下4種
 
 ## Integer
 
@@ -54,5 +54,16 @@ float f2 = 1.234;
 double pi = 3.1415926;
 ```
 
+## Bool 布林值
 
+布林為Boolean的音譯，代表True或False，所以bool型態變數只能儲存0或1。
+
+0代表False；1則代表True：
+
+```cpp
+bool b1 = true;
+bool b2 = 1;
+bool b3 = false;
+bool b4 = 0;
+```
 
