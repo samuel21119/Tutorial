@@ -46,7 +46,7 @@ int main() {
     int b = 20;
     int c = 33;
     int d = 99;
-    int e, f,;
+    int e, f;
     e = a + b * c - d;
     f = d / c;
     
