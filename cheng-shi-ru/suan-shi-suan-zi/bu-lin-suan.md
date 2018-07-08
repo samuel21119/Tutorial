@@ -62,7 +62,36 @@ int main() {
 
 | 運算子 | 意思 | 範例 |
 | --- | --- | --- | --- |
-| \|\| | 或 | A \|\| B |
-| && | 且 | A &gt;= B |
-| ! | 小於 | A &lt; B |
+| \|\| | 或\(OR\) | A \|\| B |
+| && | 且\(AND\) | A &gt;= B |
+| ! | 非\(NOT\) | !A |
+
+### 範例程式
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a = 5;
+    int b = 10;
+    int c = 5;
+    
+    cout << ((a == b) || (a == c)) << endl;
+    cout << !((a == b) || (a == c)) << endl;
+    cout << ((a < b) && (a == c)) << endl;
+    
+    return 0;
+}
+```
+
+> 範例輸出：
+>
+> 1
+>
+> 0
+>
+> 1
+
+
 
