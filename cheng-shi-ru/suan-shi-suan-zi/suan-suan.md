@@ -51,7 +51,7 @@ int main() {
     f = d / c;
     
     cout << "a + b * c - d = " <<  e << endl;
-    cout << "d / c = " << d << endl << endl;
+    cout << "d / c = " << d / c << endl << endl;
     
     cout << "a = " << a << endl;
     cout << "a--:" << a-- << endl;
@@ -71,7 +71,7 @@ int main() {
 >
 > a + b \* c - d = 571
 >
-> d / c = 99
+> d / c = 3
 >
 >
 >
