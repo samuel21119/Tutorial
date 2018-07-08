@@ -1,14 +1,20 @@
+---
+description: 學習語言，從模仿開始。
+---
+
 # 起手式
 
 學習每個程式語言的第一件事情，  
 通常就是先做個簡單的程式來運行一下。
+
+以下範例除了 `cout << "Hello World!" << endl;`該行，其餘可視為基本程式架構，照著打就好。
 
 ```cpp
 #include <iostream>
 using namespace std;
 
 int main() {
-    cout << "Hello World! << endl;
+    cout << "Hello World!" << endl;
     return 0;
 }
 ```
@@ -17,7 +23,7 @@ int main() {
 
 英文有自己的語法，中文也有，如果不按照語法來溝通，就不法達成傳遞訊息的目的，所以在程式語言中也是有事先規定好的語法，以下會一一介紹。
 
-另外請注意，每行程式後面都需要加上「;」分號，除了\#include \#define及{}後面
+另外請注意，每行程式後面都需要加上「;」分號，除了\#include \#define及{}後面。
 
 ## 標頭檔 Headers
 
@@ -31,7 +37,7 @@ int main() {
 
 iostream = input / ouput stream
 
-如果以下程式不只用到iostream，則需要include 多個標頭檔，例如
+如果以下程式不只用到iostream，則需要include 多個標頭檔，例如：
 
 ```cpp
 #include <iostream>
@@ -41,17 +47,17 @@ iostream = input / ouput stream
 
 ## C++命名空間
 
-在上面的範例中，可以看到
+在上面的範例中，可以看到：
 
 ```cpp
 using namespace std;
 ```
 
-這個很奇怪的東西，以初學者來說，只需要知道每個程式都需要加上這行即可，因為背後牽扯到很多複雜概念，故省略解釋
+這個很奇怪的東西，以初學者來說，只需要知道每個程式都需要加上這行即可，因為背後牽扯到很多複雜概念，故省略解釋。
 
 ## 主程式
 
-在一個完整的程式碼當中，需要告訴程式執行的起點在哪裡，就是下面的main:
+在一個完整的程式碼當中，需要告訴程式執行的起點在哪裡，就是下面的main：
 
 ```text
 int main() {
@@ -86,4 +92,6 @@ int main() {
 ```
 
 這個看起來會顯得更輕鬆愜意。
+
+
 
