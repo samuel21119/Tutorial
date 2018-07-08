@@ -46,12 +46,12 @@ int main() {
     int b = 20;
     int c = 33;
     int d = 99;
-    int e, f, g;
+    int e, f,;
     e = a + b * c - d;
     f = d / c;
     
     cout << "a + b * c - d = " <<  e << endl;
-    cout << "d / c = " << d / c << endl << endl;
+    cout << "d / c = " << f << endl << endl;
     
     cout << "a = " << a << endl;
     cout << "a--:" << a-- << endl;
