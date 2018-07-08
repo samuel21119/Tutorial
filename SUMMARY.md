@@ -8,6 +8,7 @@
     * [標準輸出輸入](cheng-shi-ru/ji-ben-fa/chu-ru.md)
   * [算式運算子](cheng-shi-ru/suan-shi-suan-zi/README.md)
     * [算術運算](cheng-shi-ru/suan-shi-suan-zi/suan-suan.md)
+    * [位元運算](cheng-shi-ru/suan-shi-suan-zi/wei-yuan-suan.md)
   * [迴圈控制](cheng-shi-ru/quan-kong-zhi/README.md)
     * [while](cheng-shi-ru/quan-kong-zhi/while.md)
 
