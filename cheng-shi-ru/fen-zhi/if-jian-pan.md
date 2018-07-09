@@ -28,7 +28,8 @@ int main() {
         cout << "待加強" << endl;
     }else {
         cout << "及格！" << endl;
-        
+    }
+    
     return 0;
 }：
 ```
