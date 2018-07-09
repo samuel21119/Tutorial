@@ -22,12 +22,12 @@ struct student {
 };
 ```
 
-這個時候，我們只是定義了student這個資料型態，類似我們熟悉的`int`、 `char`。
+這個時候，我們只是定義了`student`這個資料型態，類似我們熟悉的`int`、 `char`。
 
 如果我要使用這個資料結構，就要這樣宣告：
 
 ```cpp
-student stu1;
+student student1;
 ```
 
 或是在定義`structure`的後面：
@@ -38,7 +38,7 @@ struct student {
     char id;
     float score;
     int rate;
-}stu1, stu2;
+}student1, student2;
 ```
 
 現在已經完成宣告了，如果要存取structure裡面的東西，需要這樣表示：
@@ -56,18 +56,18 @@ struct student {
     char id[7];
     float score;
     int rate;
-}stu;
+}student1;
 
 int main() {
-    cin >> stu.name;
-    cin >> stu.id;
-    cin >> stu.score;
-    cin >> stu.rate;
+    cin >> student1.name;
+    cin >> student1.id;
+    cin >> student1.score;
+    cin >> student1.rate;
     
-    cout << stu.name << endl;
-    cout << stu.id << endl;
-    cout << stu.score << endl;
-    cout << stu.rate << endl;
+    cout << student1.name << endl;
+    cout << student1.id << endl;
+    cout << student1.score << endl;
+    cout << student1.rate << endl;
 }
 ```
 
@@ -102,19 +102,19 @@ struct student {
     char id[7];
     float score;
     int rate;
-}stu[2];
+}student2[2];
 
 int main() {
     for (int i = 0; i < 2; i++) {
-        cin >> stu[i].name;
-        cin >> stu[i].id;
-        cin >> stu[i].score;
-        cin >> stu[i].rate;
+        cin >> student2[i].name;
+        cin >> student2[i].id;
+        cin >> student2[i].score;
+        cin >> student2[i].rate;
     }
-    cout << stu[1].name << endl;
-    cout << stu[1].id << endl;
-    cout << stu[1].score << endl;
-    cout << stu[1].rate << endl;
+    cout << student2[1].name << endl;
+    cout << student2[1].id << endl;
+    cout << student2[1].score << endl;
+    cout << student2[1].rate << endl;
 }
 ```
 
