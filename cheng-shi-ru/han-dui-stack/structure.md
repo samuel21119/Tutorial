@@ -22,7 +22,7 @@ struct student {
 };
 ```
 
-這個時候，我們只是定義了student這個資料型態，類似我們熟悉的`int` `char`。
+這個時候，我們只是定義了student這個資料型態，類似我們熟悉的`int`、 `char`。
 
 如果我要使用這個資料結構，就要這樣宣告：
 
@@ -45,7 +45,7 @@ struct student {
 
 `變數名稱.結構成員`
 
-實作範例：
+### 實作範例：
 
 ```cpp
 #include <iostream>
@@ -73,17 +73,17 @@ int main() {
 
 > 範例輸入：
 >
-> john
+> John
 >
 > 060123
 >
 > 70.5
 >
 > 15
->
+
 > 範例輸出：
 >
-> john
+> John
 >
 > 060123
 >
@@ -111,22 +111,22 @@ int main() {
         cin >> stu[i].score;
         cin >> stu[i].rate;
     }
-    cout << stu[1].name;
-    cout << stu[1].id;
-    cout << stu[1].score;
-    cout << stu[1].rate;
+    cout << stu[1].name << endl;
+    cout << stu[1].id << endl;
+    cout << stu[1].score << endl;
+    cout << stu[1].rate << endl;
 }
 ```
 
 > 範例輸入：
 >
-> john  060123  70.5  15
+> John  060123  70.5  15
 >
-> blake  069487  67.3  25
+> Blake  069487  67.3  25
 
 > 範例輸出：
 >
-> blake
+> Blake
 >
 > 069487
 >
