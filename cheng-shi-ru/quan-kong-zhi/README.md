@@ -5,5 +5,8 @@
 ## 目錄
 
 1. [While迴圈](while.md)
-2. For迴圈
+2. [For迴圈](for-quan.md)
+3. [迴圈控制指令](quan-kong-zhi-zhi-ling.md)
+
+
 

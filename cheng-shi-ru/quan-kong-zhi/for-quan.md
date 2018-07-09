@@ -26,7 +26,7 @@ for ( ; 判斷條件; ) {
 4. 執行C部分
 5. 再回到第2點
 
-所以`for`也可以這樣改寫成`while`
+所以`for`也可以這樣改寫成`while`，範例在下面
 
 ```cpp
 (A)
@@ -60,6 +60,25 @@ int main() {
 }
 ```
 
+```cpp
+//for改編成while版本
+#include <iostream>
+using namespace std;
+
+int main() {
+    int n;
+    cin >> n;
+    
+    int i = 1
+    while (i <= n) {
+        cout << i << ' ';
+        i++;
+    }
+    
+    return 0;
+}
+```
+
 > 範例輸入1：
 >
 > 10
@@ -75,6 +94,4 @@ int main() {
 > 範例輸出1：
 >
 > 1 2 3 4
-
-
 
