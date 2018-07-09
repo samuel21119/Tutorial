@@ -19,4 +19,7 @@
     * [While迴圈](cheng-shi-ru/quan-kong-zhi/while.md)
     * [For迴圈](cheng-shi-ru/quan-kong-zhi/for-quan.md)
     * [迴圈控制指令](cheng-shi-ru/quan-kong-zhi/quan-kong-zhi-zhi-ling.md)
+  * [陣列與字串](cheng-shi-ru/lie-zi-chuan/README.md)
+    * [陣列\(Array\)](cheng-shi-ru/lie-zi-chuan/lie-array.md)
+    * [字串](cheng-shi-ru/lie-zi-chuan/zi-chuan.md)
 

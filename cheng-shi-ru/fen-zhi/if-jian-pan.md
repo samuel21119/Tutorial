@@ -1,6 +1,6 @@
 # If條件判斷
 
-`if`可以分成`if`和`if-else`
+`if`可以分成`if`和`if-else`：
 
 ```cpp
 if (判斷條件) { //if
