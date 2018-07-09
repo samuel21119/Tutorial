@@ -18,4 +18,5 @@
   * [迴圈控制](cheng-shi-ru/quan-kong-zhi/README.md)
     * [While迴圈](cheng-shi-ru/quan-kong-zhi/while.md)
     * [For迴圈](cheng-shi-ru/quan-kong-zhi/for-quan.md)
+    * [迴圈控制指令](cheng-shi-ru/quan-kong-zhi/quan-kong-zhi-zhi-ling.md)
 
