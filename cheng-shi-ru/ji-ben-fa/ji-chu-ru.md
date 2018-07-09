@@ -18,7 +18,7 @@ int I_am_integer = 9487;
 
 因為記憶體的限制，int型態範圍只到 -2^32 ~ 2^31-1
 
-如果還需要更大，則需要宣告為long long型態 \(-2^64 ~ 2^63-1\)
+如果還需要更大，則需要宣告為`long long`型態 \(-2^64 ~ 2^63-1\)
 
 ```cpp
 long long a = 9223372036854775807;
@@ -56,7 +56,7 @@ double pi = 3.1415926;
 
 ## Bool 布林值
 
-布林為Boolean的音譯，代表True或False，所以bool型態變數只能儲存0或1。
+布林為Boolean的音譯，代表True或False，所以`bool`型態變數只能儲存0或1。
 
 0代表False；1則代表True：
 

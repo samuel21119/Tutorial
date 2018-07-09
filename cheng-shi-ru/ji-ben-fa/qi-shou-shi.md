@@ -59,7 +59,7 @@ using namespace std;
 
 在一個完整的程式碼當中，需要告訴程式執行的起點在哪裡，就是下面的main：
 
-```text
+```cpp
 int main() {
     ...
 }
