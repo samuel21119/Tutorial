@@ -16,5 +16,5 @@
     * [If條件判斷](cheng-shi-ru/fen-zhi/if-jian-pan.md)
     * [Switch條件判斷](cheng-shi-ru/fen-zhi/switch-jian-pan.md)
   * [迴圈控制](cheng-shi-ru/quan-kong-zhi/README.md)
-    * [while](cheng-shi-ru/quan-kong-zhi/while.md)
+    * [While迴圈](cheng-shi-ru/quan-kong-zhi/while.md)
 

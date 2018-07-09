@@ -2,6 +2,6 @@
 
 ## 目錄
 
-1. while迴圈
-2. for迴圈
+1. While迴圈
+2. For迴圈
 
