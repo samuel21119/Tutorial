@@ -4,7 +4,7 @@
 
 ## [算式運算子](suan-shi-suan-zi/)
 
-## 分支結構
+## [分支結構](fen-zhi/)
 
 ## [迴圈控制](quan-kong-zhi/)
 
