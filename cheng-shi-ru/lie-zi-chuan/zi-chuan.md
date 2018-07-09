@@ -64,7 +64,7 @@ int main() {
 > 範例輸入：
 >
 > hello!
->
+
 > 範例輸出：
 >
 > hello!

@@ -22,4 +22,6 @@
   * [陣列與字串](cheng-shi-ru/lie-zi-chuan/README.md)
     * [陣列\(Array\)](cheng-shi-ru/lie-zi-chuan/lie-array.md)
     * [字串](cheng-shi-ru/lie-zi-chuan/zi-chuan.md)
+  * [結構、函數、堆疊\(Stack\)與遞迴](cheng-shi-ru/han-dui-stack/README.md)
+    * [結構 \(structure\)](cheng-shi-ru/han-dui-stack/structure.md)
 
