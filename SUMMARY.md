@@ -12,6 +12,9 @@
     * [指派運算](cheng-shi-ru/suan-shi-suan-zi/zhi-pai-suan.md)
     * [布林運算](cheng-shi-ru/suan-shi-suan-zi/bu-lin-suan.md)
     * [補充](cheng-shi-ru/suan-shi-suan-zi/chong.md)
+  * [分支結構](cheng-shi-ru/fen-zhi/README.md)
+    * [If條件判斷](cheng-shi-ru/fen-zhi/if-jian-pan.md)
+    * [Switch條件判斷](cheng-shi-ru/fen-zhi/switch-jian-pan.md)
   * [迴圈控制](cheng-shi-ru/quan-kong-zhi/README.md)
     * [while](cheng-shi-ru/quan-kong-zhi/while.md)
 

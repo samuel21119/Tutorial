@@ -35,7 +35,7 @@ int main() {
 
 這句話告訴編譯器說我需要用到名為 iostream 的標頭檔
 
-iostream = input / ouput stream
+iostream = input / output stream
 
 如果以下程式不只用到iostream，則需要include 多個標頭檔，例如：
 
