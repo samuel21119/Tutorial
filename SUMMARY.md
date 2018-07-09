@@ -17,4 +17,5 @@
     * [Switch條件判斷](cheng-shi-ru/fen-zhi/switch-jian-pan.md)
   * [迴圈控制](cheng-shi-ru/quan-kong-zhi/README.md)
     * [While迴圈](cheng-shi-ru/quan-kong-zhi/while.md)
+    * [For迴圈](cheng-shi-ru/quan-kong-zhi/for-quan.md)
 

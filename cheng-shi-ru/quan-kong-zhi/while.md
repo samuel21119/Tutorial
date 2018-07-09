@@ -1,6 +1,6 @@
 # While迴圈
 
-先看範例：
+先看用法：
 
 ```cpp
 while ( statement ) {
