@@ -2,6 +2,6 @@
 
 ## 目錄
 
-1. [陣列\(Array\)](lie-array.md)
-2. [字串](zi-chuan.md)
+1. [陣列 \(Array\)](lie-array.md)
+2. [字串 \(String\)](zi-chuan.md)
 
