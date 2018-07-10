@@ -25,4 +25,5 @@
   * [結構、函數、堆疊\(Stack\)與遞迴](cheng-shi-ru/han-dui-stack/README.md)
     * [結構 \(Structure\)](cheng-shi-ru/han-dui-stack/structure.md)
     * [函數 \(Function\)](cheng-shi-ru/han-dui-stack/han-function.md)
+    * [堆疊 \(Stack\)](cheng-shi-ru/han-dui-stack/dui-stack.md)
 
