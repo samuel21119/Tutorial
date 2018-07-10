@@ -14,7 +14,7 @@ if (判斷條件) { //if-else
 }
 ```
 
-所以我們可以透過`if-else`判斷成績是否不及格：
+所以我們可以透過`if-else`判斷成績是否及格：
 
 ```cpp
 #include <iostream>
