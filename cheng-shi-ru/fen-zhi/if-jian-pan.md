@@ -55,6 +55,9 @@ int main() {
 誰說`if`不能只放一個的？我們來看看如果`if`裡面也放`if`會怎麼樣
 
 ```cpp
+#include <iosteam>
+using namespace std;
+
 int main() {
     int score;
     cin >> score;
@@ -91,7 +94,7 @@ int main() {
 * 否則
   * 輸出F
 
-## if -else if - else條件判斷
+## if - else if - else條件判斷
 
 以上面輸出成績等級的範例來看，感覺有點過於複雜，我們可以將它改寫成以下這樣
 
@@ -152,4 +155,6 @@ if (score < 60) {
 > 範例輸出3：
 >
 > A
+
+
 

@@ -69,7 +69,7 @@ int main() {
     int n;
     cin >> n;
     
-    int i = 1
+    int i = 1;
     while (i <= n) {
         cout << i << ' ';
         i++;

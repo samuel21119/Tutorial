@@ -23,7 +23,7 @@ int main() {
 }
 ```
 
-可以將`if else-if else`判斷式改成以下這樣：
+可以將`if - else if - else`判斷式改成以下這樣：
 
 ```cpp
 switch (a) {
@@ -57,7 +57,9 @@ switch (a) {
 
 若`case`內都沒有相符的則會執行`default`內的內容，但是`default`本身並不一定要存在，這部分跟`if else`中，其實可以不要寫`else`是一樣的。
 
-**記住！在`switch`裡面，每一個`case`結束時都要加上`break;`，要不然會一直往下執行：**
+{% hint style="warning" %}
+在`switch`裡面，每一個`case`結束時都要加上`break;`，要不然會一直往下執行：
+{% endhint %}
 
 ```cpp
 switch (a) {

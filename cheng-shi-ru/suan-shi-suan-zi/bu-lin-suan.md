@@ -6,7 +6,7 @@ description: 非零即為真。
 
 在前面 [變數－Bool 布林值](../ji-ben-fa/ji-chu-ru.md#bool-bu-lin-zhi) 時有提過：0代表False；1代表True。
 
-而在這裡還要再補充一點，只要不是0，就是真，例如：
+而在這裡還要再補充一點：只要不是0，就是真。例如：
 
 ```cpp
 bool b1 = 2;
@@ -92,6 +92,4 @@ int main() {
 > 0
 >
 > 1
-
-
 

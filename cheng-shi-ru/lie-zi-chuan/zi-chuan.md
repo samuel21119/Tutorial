@@ -71,14 +71,24 @@ int main() {
 
 在上面的程式碼中，可以看到 `#include <string>`這串，這是因為`string`變數型態是定義在string這個標頭檔，所以我們要把它include進來，要不然編譯會發生錯誤。
 
-而且`string`也可以當作`char`陣列讀取（不能寫入！），例如：
+而且`string`也可以當作`char`陣列讀取，例如：
 
 ```cpp
 cout << s[0]; //h
 cout << s[1]; //e
 ```
 
-另外，補充一些用法，而且這些用法只適用於`string`型態，如果用`char`陣列儲存字串，使用以下指令將會造成編譯錯誤：
+{% hint style="warning" %}
+使用此方法只能讀取，不能寫入，如：
+
+```cpp
+s[0] = 'a';
+```
+
+會造成編譯錯誤。
+{% endhint %}
+
+另外，補充一些常用用法：
 
 ```cpp
 int len = s.length(); // 字串s的長度（若s為"Hello"，則回傳5）
@@ -97,5 +107,7 @@ string s3(char_array);//可以在s3宣告的時候，把char_array儲存的字�
                       //此做法可以視為 char陣列 轉 string的做法
 ```
 
-
+{% hint style="warning" %}
+以上用法只適用於`string`型態，如果用`char`陣列儲存字串，使用以上指令將會造成編譯錯誤！
+{% endhint %}
 
