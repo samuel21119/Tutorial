@@ -93,3 +93,7 @@ int main() {
 >
 > c % 10 = 33 % 10 = 3
 
+## 練習題目
+
+[ZeroJudge a002](https://zerojudge.tw/ShowProblem?problemid=a002) \(題目因為要求要重複輸入，建議先學會while迴圈再回來寫\)
+

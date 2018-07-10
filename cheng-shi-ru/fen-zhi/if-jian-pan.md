@@ -156,5 +156,11 @@ if (score < 60) {
 >
 > A
 
+## 練習題目
 
+[Zerojudge a003](https://zerojudge.tw/ShowProblem?problemid=a003)
+
+[Zerojudge a004](https://zerojudge.tw/ShowProblem?problemid=a004)
+
+[Zerojudge a006](https://zerojudge.tw/ShowProblem?problemid=a006)
 
