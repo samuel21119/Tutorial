@@ -75,7 +75,8 @@ int main() {
 4. `return`這裡很重要，函數裡面可能會有一堆程式碼，使編譯器會不知道要回傳哪一個東西。所以我們需要透過`return`加上回傳項目，才可以回傳我們要的東西。如果在函數中間就遇到`return`，那就會直接回傳並且結束這個函數。如： ![](../../.gitbook/assets/screen-shot-2018-07-10-at-8.07.45-pm.png)
 
 {% hint style="info" %}
-如果回傳型態為`void`，則`return;`代表跳出函數，後面不需要加上任何東西。
+如果回傳型態為`void`，則`return;`代表跳出函數，後面不需要加上任何東西。  
+`void`代表虛無，所以此函數不需回傳任何數值。
 {% endhint %}
 
 {% hint style="warning" %}
