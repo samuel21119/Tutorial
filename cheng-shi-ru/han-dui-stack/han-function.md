@@ -1,6 +1,6 @@
 # 函數 \(Function\)
 
-在程式裡面，如果我要在不同地方執行多次相同程式，或是縮短程式運算式，都可以運用函數幫助我們解決。請看範例：
+在程式裡面，如果要在不同地方執行多次相同程式，或是縮短程式運算式，都可以運用函數幫助我們解決。請看範例：
 
 > 題目：
 >
@@ -75,7 +75,7 @@ int main() {
 4. `return`這裡很重要，函數裡面可能會有一堆程式碼，使編譯器會不知道要回傳哪一個東西。所以我們需要透過`return`加上回傳項目，才可以回傳我們要的東西。如果在函數中間就遇到`return`，那就會直接回傳並且結束這個函數。如： ![](../../.gitbook/assets/screen-shot-2018-07-10-at-8.07.45-pm.png)
 
 {% hint style="info" %}
-如果回傳型態為`void`，則`return;`代表跳出函數，後面不需要加上任何東西
+如果回傳型態為`void`，則`return;`代表跳出函數，後面不需要加上任何東西。
 {% endhint %}
 
 {% hint style="warning" %}
@@ -94,12 +94,14 @@ int main() {
     return 0;  
 }`
 
-這裡的輸出仍是`5 6`，不會變成`1 2`
+這裡的輸出仍是`5 6`，不會變成`1 2`。
 
-詳細原因請參照 [全域/區域變數](https://funprogramming.org/50-What-are-global-and-local-variables.html)
+詳細原因請參照 [全域/區域變數](https://funprogramming.org/50-What-are-global-and-local-variables.html)。
 {% endhint %}
 
-
+{% hint style="info" %}
+其實每個城市的`main`也是一種函數，其回傳的int值會回傳到呼叫此C++程式的地方，一般來說就是作業系統。
+{% endhint %}
 
 
 
