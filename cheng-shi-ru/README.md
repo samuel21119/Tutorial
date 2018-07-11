@@ -1,14 +1,18 @@
 # C++程式語言入門
 
-## [基本語法](ji-ben-fa/)
+## 目錄：
 
-## [算式運算子](suan-shi-suan-zi/)
+### [基本語法](ji-ben-fa/)
 
-## [分支結構](fen-zhi/)
+### [算式運算子](suan-shi-suan-zi/)
 
-## [迴圈控制](quan-kong-zhi/)
+### [分支結構](fen-zhi/)
 
-## [陣列與字串](lie-zi-chuan/)
+### [迴圈控制](quan-kong-zhi/)
 
-## [結構、函數、堆疊\(Stack\)與遞迴](han-dui-stack/)
+### [陣列與字串](lie-zi-chuan/)
+
+### [結構、函數、堆疊\(Stack\)與遞迴](han-dui-stack/)
+
+
 
