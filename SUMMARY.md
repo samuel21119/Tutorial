@@ -6,6 +6,7 @@
     * [起手式](cheng-shi-ru/ji-ben-fa/qi-shou-shi.md)
     * [變數](cheng-shi-ru/ji-ben-fa/ji-chu-ru.md)
     * [標準輸出輸入](cheng-shi-ru/ji-ben-fa/chu-ru.md)
+    * [補充](cheng-shi-ru/ji-ben-fa/chong.md)
   * [算式運算子](cheng-shi-ru/suan-shi-suan-zi/README.md)
     * [算術運算](cheng-shi-ru/suan-shi-suan-zi/suan-suan.md)
     * [位元運算](cheng-shi-ru/suan-shi-suan-zi/wei-yuan-suan.md)
