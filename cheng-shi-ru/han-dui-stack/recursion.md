@@ -131,8 +131,9 @@ int main() {
 #include <iostream>
 using namespace std;
 int Fibonacci(int i) {
-    if (i == 1 || i == 2)
+    if (i == 1 || i == 2) {
         return 1;
+    }
     return Fibonacci(i - 1) + Fibonacci(i - 2);
 }
 int main() {
@@ -154,6 +155,12 @@ int main() {
 
 {% tabs %}
 {% tab title="說明" %}
+`return Fibonacci(i - 1) + Fibonacci(i - 2);`
+
+這行非常的直觀，可以知道要回傳 第i - 1項 ＋第i - 2項。
+
+而`if (i == 1 || i == 2) return 1;`這邊非常重要，如果沒有加上這行，則Fibonacci函數會沒有跳脫的條件，導致程式無止境執行下去。
+
 這題也可以是試著用迴圈寫，並比較兩者之間差異。
 
 {% hint style="info" %}
