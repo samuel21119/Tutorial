@@ -64,10 +64,10 @@ int main() {
     
     int array[n];
     for (int i = 0; i < n; i++) {
-        cin >> array[n];
+        cin >> array[i];
     }
     for (int i = 0; i < n; i++) {
-        cout << array[n] << endl;
+        cout << array[i] << endl;
     }
     
     return 0;
