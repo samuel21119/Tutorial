@@ -4,7 +4,7 @@ Stack是具有「Last-In-First-Out」特性的資料結構 \(可以想像成一�
 
 最早進的最晚出來；最晚進的最早出來。就如疊盤子一樣：
 
-![](../../.gitbook/assets/wzwpmlzizvx0cmyktqxejm1kzmx8soxmdm0ezyvcwbpxgbh9yckf2bsbxdv02bj5con5wztvwaq5yd3d3lvodc0rha%20%282%29.jpg)
+![](../../.gitbook/assets/wzwpmlzizvx0cmyktqxejm1kzmx8soxmdm0ezyvcwbpxgbh9yckf2bsbxdv02bj5con5wztvwaq5yd3d3lvodc0rha%20%281%29.jpg)
 
 一般的Stack，會有以下幾種操作項目：
 

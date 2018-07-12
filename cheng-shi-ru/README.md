@@ -2,6 +2,8 @@
 
 ## 目錄
 
+### [環境配置](jing-pei-zhi.md)
+
 ### [基本語法](ji-ben-fa/)
 
 ### [算式運算子](suan-shi-suan-zi/)
