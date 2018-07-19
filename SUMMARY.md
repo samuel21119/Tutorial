@@ -29,4 +29,7 @@
     * [函數 \(Function\)](cheng-shi-ru/han-dui-stack/han-function.md)
     * [堆疊 \(Stack\)](cheng-shi-ru/han-dui-stack/dui-stack.md)
     * [遞迴 \(Recursion\)](cheng-shi-ru/han-dui-stack/recursion.md)
+* [演算法入門](yan-suan-fa-ru/README.md)
+  * [STL容器](yan-suan-fa-ru/stl-rong-qi/README.md)
+    * [Stack](yan-suan-fa-ru/stl-rong-qi/stack.md)
 
