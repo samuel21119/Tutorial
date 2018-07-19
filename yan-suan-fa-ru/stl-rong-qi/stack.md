@@ -8,9 +8,11 @@
 
 使用stack需要include特殊標頭檔，名為stack：
 
-`#include <stack>`
+```cpp
+#include <stack>
+```
 
-### 宣告：
+### 宣告
 
 如同一般變數，stack也是需要宣告的，用法如下：
 
@@ -25,9 +27,9 @@ stack<string> stack_string;         // 儲存string型態
 stack< stack<int> > stack_stack_int;// 當然也可以在stack裡面儲存stack;
 ```
 
-### 常用函數
+### 基本操作
 
-為了操作我們所宣告的stack，我們需要用到其內建的函數。以下為通常會需要用到的最基本函數：
+為了操作我們所宣告的stack，我們需要用到其內建的函數。以下為基本的操作\(函數\)：
 
 | 函數名稱 | 說明 |
 | --- | --- | --- | --- | --- | --- |

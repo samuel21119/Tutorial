@@ -32,4 +32,5 @@
 * [演算法入門](yan-suan-fa-ru/README.md)
   * [STL容器](yan-suan-fa-ru/stl-rong-qi/README.md)
     * [Stack](yan-suan-fa-ru/stl-rong-qi/stack.md)
+    * [Queue](yan-suan-fa-ru/stl-rong-qi/queue.md)
 
