@@ -33,6 +33,10 @@ queue<string> queue_string;
 | empty\(\) | 回傳queue是否為空1: 空0: 有資料 |
 | size\(\) | 回傳queue目前有幾筆資料 |
 
+詳細說明可參照以下連結：
+
+{% embed data="{\"url\":\"http://www.cplusplus.com/reference/queue/queue/\",\"type\":\"link\",\"title\":\"queue - C++ Reference\",\"icon\":{\"type\":\"icon\",\"url\":\"http://www.cplusplus.com/favicon.ico\",\"aspectRatio\":0}}" %}
+
 ## 範例
 
 ```cpp
