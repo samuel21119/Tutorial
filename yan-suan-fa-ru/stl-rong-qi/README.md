@@ -4,7 +4,7 @@
 
 * [Stack](stack.md)
 * [Queue](queue.md)
-* Vector
+* [Vector](vector.md)
 * Set
 * Map
 
