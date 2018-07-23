@@ -33,4 +33,5 @@
   * [STL容器](yan-suan-fa-ru/stl-rong-qi/README.md)
     * [Stack](yan-suan-fa-ru/stl-rong-qi/stack.md)
     * [Queue](yan-suan-fa-ru/stl-rong-qi/queue.md)
+    * [Vector](yan-suan-fa-ru/stl-rong-qi/vector.md)
 
