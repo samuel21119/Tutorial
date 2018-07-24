@@ -97,7 +97,7 @@ int main() {
 
 這裡的輸出仍是`5 6`，不會變成`1 2`。
 
-詳細原因請參照 [全域/區域變數](https://funprogramming.org/50-What-are-global-and-local-variables.html)。
+詳細原因請參照 [全域/區域變數](https://funprogramming.org/50-What-are-global-and-local-variables.html)，及[指標](../../yan-suan-fa-ru/zhi-pointer.md)。
 {% endhint %}
 
 {% hint style="info" %}

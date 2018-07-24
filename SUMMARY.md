@@ -30,8 +30,10 @@
     * [堆疊 \(Stack\)](cheng-shi-ru/han-dui-stack/dui-stack.md)
     * [遞迴 \(Recursion\)](cheng-shi-ru/han-dui-stack/recursion.md)
 * [演算法入門](yan-suan-fa-ru/README.md)
+  * [指標 \(Pointer\)](yan-suan-fa-ru/zhi-pointer.md)
   * [STL容器](yan-suan-fa-ru/stl-rong-qi/README.md)
     * [Stack](yan-suan-fa-ru/stl-rong-qi/stack.md)
     * [Queue](yan-suan-fa-ru/stl-rong-qi/queue.md)
     * [Vector](yan-suan-fa-ru/stl-rong-qi/vector.md)
+    * [Set](yan-suan-fa-ru/stl-rong-qi/set.md)
 
