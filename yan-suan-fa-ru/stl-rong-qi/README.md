@@ -5,6 +5,6 @@
 * [Stack](stack.md)
 * [Queue](queue.md)
 * [Vector](vector.md)
-* Set
-* Map
+* [Set](set.md)
+* [Map](map.md)
 
