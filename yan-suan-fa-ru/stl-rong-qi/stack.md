@@ -31,15 +31,40 @@ stack< stack<int> > stack_stack_int;// 當然也可以在stack裡面儲存stack;
 
 為了操作我們所宣告的stack，我們需要用到其內建的函數。以下為基本的操作\(函數\)：
 
-| 函數名稱 | 說明 |
-| --- | --- | --- | --- | --- | --- |
-| push\( 資料 \) | 將資料放進Stack頂端 |
-| top\(\) | 回傳最上方的資料 |
-| pop\(\) | 移除最上方的資料 |
-| empty\(\) | 回傳stack是否為空1: 空0: 有資料 |
-| size\(\) | 回傳stack目前有幾筆資料 |
-
-基本操作用法可參照下方的[範例](stack.md#li)，若有不懂之處，可以到以下連結查詢詳細資訊
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">函數名稱</th>
+      <th style="text-align:left">說明</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">push( 資料 )</td>
+      <td style="text-align:left">將資料放進Stack頂端</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">top()</td>
+      <td style="text-align:left">回傳最上方的資料</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">pop()</td>
+      <td style="text-align:left">移除最上方的資料</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">empty()</td>
+      <td style="text-align:left">
+        <p>回傳stack是否為空</p>
+        <p>1: 空</p>
+        <p>0: 有資料</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">size()</td>
+      <td style="text-align:left">回傳stack目前有幾筆資料</td>
+    </tr>
+  </tbody>
+</table>基本操作用法可參照下方的[範例](stack.md#li)，若有不懂之處，可以到以下連結查詢詳細資訊
 
 {% embed data="{\"url\":\"http://www.cplusplus.com/reference/stack/stack/\",\"type\":\"link\",\"title\":\"stack - C++ Reference\",\"icon\":{\"type\":\"icon\",\"url\":\"http://www.cplusplus.com/favicon.ico\",\"aspectRatio\":0}}" %}
 

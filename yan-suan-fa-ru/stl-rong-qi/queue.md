@@ -25,15 +25,40 @@ queue<string> queue_string;
 
 ### 基本操作
 
-| 函數名稱 | 說明 |
-| --- | --- | --- | --- | --- | --- |
-| push\( 資料 \) | 將資料放進Queue尾部 |
-| front\(\) | 回傳最前方的資料 |
-| pop\(\) | 移除最前方的資料 |
-| empty\(\) | 回傳queue是否為空1: 空0: 有資料 |
-| size\(\) | 回傳queue目前有幾筆資料 |
-
-詳細說明可參照以下連結：
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">函數名稱</th>
+      <th style="text-align:left">說明</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">push( 資料 )</td>
+      <td style="text-align:left">將資料放進Queue尾部</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">front()</td>
+      <td style="text-align:left">回傳最前方的資料</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">pop()</td>
+      <td style="text-align:left">移除最前方的資料</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">empty()</td>
+      <td style="text-align:left">
+        <p>回傳queue是否為空</p>
+        <p>1: 空</p>
+        <p>0: 有資料</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">size()</td>
+      <td style="text-align:left">回傳queue目前有幾筆資料</td>
+    </tr>
+  </tbody>
+</table>詳細說明可參照以下連結：
 
 {% embed data="{\"url\":\"http://www.cplusplus.com/reference/queue/queue/\",\"type\":\"link\",\"title\":\"queue - C++ Reference\",\"icon\":{\"type\":\"icon\",\"url\":\"http://www.cplusplus.com/favicon.ico\",\"aspectRatio\":0}}" %}
 

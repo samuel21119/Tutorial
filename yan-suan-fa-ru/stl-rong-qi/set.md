@@ -23,15 +23,39 @@ set<string> b; // 將採用字典順序方法排序
 
 ### 基本操作
 
-| 函數名稱 | 說明 |
-| --- | --- | --- | --- | --- | --- |
-| insert\( 資料 \) | 將資料新增到set裡面 |
-| erase\( 資料 \) | 將資料從set中移除 |
-| begin\(\) | 回傳set一開始的迭代器\(iterator\) |
-| end\(\) | 回傳set尾部的迭代器 |
-| a.find\(資料\) | 群找資料，並回傳該資料的迭代器，若不存在則回傳end\(\) |
-
-詳細說明可參照以下連結：
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">函數名稱</th>
+      <th style="text-align:left">說明</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">insert( 資料 )</td>
+      <td style="text-align:left">將資料新增到set裡面</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">erase( 資料 )</td>
+      <td style="text-align:left">將資料從set中移除</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">begin()</td>
+      <td style="text-align:left">回傳set一開始的迭代器(iterator)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">end()</td>
+      <td style="text-align:left">回傳set尾部的迭代器</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">a.find(資料)</td>
+      <td style="text-align:left">
+        <p>群找資料，並回傳該資料的迭代器，</p>
+        <p>若不存在則回傳end()</p>
+      </td>
+    </tr>
+  </tbody>
+</table>詳細說明可參照以下連結：
 
 {% embed data="{\"url\":\"http://www.cplusplus.com/reference/set/set/\",\"type\":\"link\",\"title\":\"set - C++ Reference\",\"icon\":{\"type\":\"icon\",\"url\":\"http://www.cplusplus.com/favicon.ico\",\"aspectRatio\":0}}" %}
 

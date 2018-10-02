@@ -25,7 +25,7 @@ vector< vector<int> > vector_2D; // vector裡面再存一個vector，達到2D陣
 ### 基本操作
 
 | 函數名稱 | 說明 |
-| --- | --- | --- | --- |
+| :--- | :--- |
 | push\_back\( 資料 \) | 將資料新增到Vector尾部 |
 | \[ 元素位置 \] | 讀寫「元素位置」的資料，可視為array的操作方法 |
 | size\(\) | 回傳vector目前有幾筆資料 |
