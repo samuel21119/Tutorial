@@ -45,7 +45,7 @@ int main() {
 
 詳細說明可參照以下連結：
 
-{% embed data="{\"url\":\"http://www.cplusplus.com/reference/map/map/\",\"type\":\"link\",\"title\":\"map - C++ Reference\",\"icon\":{\"type\":\"icon\",\"url\":\"http://www.cplusplus.com/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="http://www.cplusplus.com/reference/map/map/" %}
 
 ## 範例
 

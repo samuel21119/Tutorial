@@ -32,7 +32,7 @@ vector< vector<int> > vector_2D; // vector裡面再存一個vector，達到2D陣
 
 詳細說明可參照以下連結：
 
-{% embed data="{\"url\":\"http://www.cplusplus.com/reference/vector/vector/\",\"type\":\"link\",\"title\":\"vector - C++ Reference\",\"icon\":{\"type\":\"icon\",\"url\":\"http://www.cplusplus.com/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="http://www.cplusplus.com/reference/vector/vector/" %}
 
 ## 範例
 

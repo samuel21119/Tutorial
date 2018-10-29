@@ -71,22 +71,13 @@ int main() {
 
 在上面的程式碼中，可以看到 `#include <string>`這串，這是因為`string`變數型態是定義在string這個標頭檔，所以我們要把它include進來，要不然編譯會發生錯誤。
 
-而且`string`也可以當作`char`陣列讀取，例如：
+而且`string`也可以當作`char`陣列讀寫，例如：
 
 ```cpp
 cout << s[0]; //h
 cout << s[1]; //e
+s[0]] = 'a';
 ```
-
-{% hint style="warning" %}
-使用此方法只能讀取，不能寫入，如：
-
-```cpp
-s[0] = 'a';
-```
-
-會造成編譯錯誤。
-{% endhint %}
 
 另外，補充一些常用用法：
 

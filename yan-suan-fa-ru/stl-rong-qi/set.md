@@ -57,7 +57,7 @@ set<string> b; // 將採用字典順序方法排序
   </tbody>
 </table>詳細說明可參照以下連結：
 
-{% embed data="{\"url\":\"http://www.cplusplus.com/reference/set/set/\",\"type\":\"link\",\"title\":\"set - C++ Reference\",\"icon\":{\"type\":\"icon\",\"url\":\"http://www.cplusplus.com/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="http://www.cplusplus.com/reference/set/set/" %}
 
 ## 範例
 

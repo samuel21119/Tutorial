@@ -66,7 +66,7 @@ stack< stack<int> > stack_stack_int;// 當然也可以在stack裡面儲存stack;
   </tbody>
 </table>基本操作用法可參照下方的[範例](stack.md#li)，若有不懂之處，可以到以下連結查詢詳細資訊
 
-{% embed data="{\"url\":\"http://www.cplusplus.com/reference/stack/stack/\",\"type\":\"link\",\"title\":\"stack - C++ Reference\",\"icon\":{\"type\":\"icon\",\"url\":\"http://www.cplusplus.com/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="http://www.cplusplus.com/reference/stack/stack/" %}
 
 ## 範例
 

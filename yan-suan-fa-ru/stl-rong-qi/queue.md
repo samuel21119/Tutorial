@@ -60,7 +60,7 @@ queue<string> queue_string;
   </tbody>
 </table>詳細說明可參照以下連結：
 
-{% embed data="{\"url\":\"http://www.cplusplus.com/reference/queue/queue/\",\"type\":\"link\",\"title\":\"queue - C++ Reference\",\"icon\":{\"type\":\"icon\",\"url\":\"http://www.cplusplus.com/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="http://www.cplusplus.com/reference/queue/queue/" %}
 
 ## 範例
 
